@@ -1,5 +1,7 @@
 # Pinterest Marketing Strategist
 
+**Docs:** [PRD](PRD.md) · [Changelog](CHANGELOG.md)
+
 Produce composed Pinterest pins from your real documents and approved image library. Not a scheduling tool — a production system that generates pins ready to review and post, then learns from performance data to make every batch smarter.
 
 ## What It Does
