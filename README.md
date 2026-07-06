@@ -57,8 +57,13 @@ Log performance, extract learnings, make the next batch smarter. Run after pins 
 ## Install
 
 ```
-/plugin marketplace add EditorialOS/pinterest-marketing-strategist
-/plugin install pinterest-marketing-strategist@pinterest-marketing-strategist
+# From Anthropic's community plugin marketplace:
+/plugin marketplace add anthropics/claude-plugins-community
+/plugin install pinterest-marketing-strategist@claude-community
+
+# Or from the EditorialOS marketplace:
+/plugin marketplace add EditorialOS/editorial-os
+/plugin install pinterest-marketing-strategist@editorialos
 ```
 
 ## Example Usage
