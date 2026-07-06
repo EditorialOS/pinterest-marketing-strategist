@@ -57,7 +57,8 @@ Log performance, extract learnings, make the next batch smarter. Run after pins 
 ## Install
 
 ```
-claude plugins add EditorialOS/pinterest-marketing-strategist
+/plugin marketplace add EditorialOS/pinterest-marketing-strategist
+/plugin install pinterest-marketing-strategist@pinterest-marketing-strategist
 ```
 
 ## Example Usage
